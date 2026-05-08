@@ -77,20 +77,6 @@
 
 ---
 
-### Featured Repository
-
-<a href="https://github.com/eshir0/problem-solving"></a>
-
----
-
-### GitHub Activity
-
-<p></p>
-
-<p></p>
-
----
-
 ### 문의하기
 
 - Website: `web.junsclub.net`
