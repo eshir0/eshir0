@@ -79,21 +79,15 @@
 
 ### Featured Repository
 
-<a href="https://github.com/eshir0/problem-solving">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshir0&repo=problem-solving&theme=github_dark&hide_border=true" alt="problem-solving repository" />
-</a>
+<a href="https://github.com/eshir0/problem-solving"></a>
 
 ---
 
 ### GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eshir0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-</p>
+<p></p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshir0&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+<p></p>
 
 ---
 
