@@ -73,7 +73,6 @@
 |---|---|
 | Problem Solving | Python 기반 알고리즘 풀이 기록 |
 | Cyber Security | 보안 개념, 네트워크, 시스템 기초 학습 |
-| Development | 작은 프로젝트를 만들며 구조화된 코드 연습 |
 | 문서 | 배운 내용을 README와 노트로 정리 |
 
 ---
